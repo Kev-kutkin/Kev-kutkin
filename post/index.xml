@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kevin Yong&#39;s Portfolio</title>
+    <link>https://kev-kutkin.github.io/Kev-kutkin/post/</link>
+    <description>Recent content in Projects on Kevin Yong&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://kev-kutkin.github.io/Kev-kutkin/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anomaly Detection in Stock Time Series Data</title>
+      <link>https://kev-kutkin.github.io/Kev-kutkin/post/project-2/</link>
+      <pubDate>Tue, 09 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://kev-kutkin.github.io/Kev-kutkin/post/project-2/</guid>
+      <description>This short project is created to detect those anomaly points for time series data that are collected from the real world stock market. I have built the anomaly detection model to identify data points that are not able to be considered as outliers through statistical techniques. Specifically, I have trained a deep learning model-based Long Short-Term Memory (LSTM) autocoder to detect the sudden price change in five years of S&amp;amp;P 500 index.</description>
+    </item>
+    
+    <item>
+      <title>Telecommunication Customer Churn Prediction</title>
+      <link>https://kev-kutkin.github.io/Kev-kutkin/post/project-1/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kev-kutkin.github.io/Kev-kutkin/post/project-1/</guid>
+      <description>Customer churn rate is an indication of how satisfied telecommunication services are offered to subscribed customers. Customers who are satisfied with the service will continue to stay as a &amp;lsquo;layal&amp;rsquo; subscribers by continuing the biling lifecycle. The telecommunication companies only earn revenue when subscribers continue to pay for their services offered. Thus, the companies could retent these loyal customers if there was a prediction system to inform them early about the possibility of certain customers churning from their services.</description>
+    </item>
+    
+  </channel>
+</rss>
